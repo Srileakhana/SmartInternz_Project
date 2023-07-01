@@ -12,3 +12,4 @@ Skills required: Python,Python For Data Analysis,Python For Data Visualization,M
   Our objective is to forecast individuals diagnosed with chronic kidney failure (CKD) and individuals without the disease (notCKD). Consequently, we are constructing a Machine Learning model utilizing IBM Watson Machine Learning Service to estimate the compressive strength of concrete.The model's predictions are subsequently displayed on a user interface. 
 
 # Demonstration video link
+https://drive.google.com/file/d/1BmSM24-U3vIrr2OZUlu9ds6YHmjNAe1m/view?usp=sharing
